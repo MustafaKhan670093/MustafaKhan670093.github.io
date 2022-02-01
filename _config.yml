@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            AI Notebooks
+longtitle:        AI Notebooks
+author:           Mustafa Khan
+email:            mustafakhan.contact@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  A place where I question everything, learn something, and answer nothing.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://MustafaKhan670093.github.io'
+baseurl:          '/ainotebooks'
 rss:              RSS
 
 toc:
