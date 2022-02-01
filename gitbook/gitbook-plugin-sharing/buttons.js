@@ -13,7 +13,8 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             'icon': 'fa fa-twitter',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open('http://twitter.com/home?status='+encodeURIComponent(document.title+' '+location.href));
+                window.open('https://twitter.com/itsmuskhan');
+                // window.open('http://twitter.com/home?status='+encodeURIComponent(document.title+' '+location.href));
             }
         },
         'google': {
