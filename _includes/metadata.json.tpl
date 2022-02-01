@@ -23,7 +23,7 @@
             "search": {},
             "sharing": {
                 "all": ["facebook", "google", "twitter", "weibo", "instapaper"],
-                "facebook": true,
+                "facebook": false,
                 "google": false,
                 "instapaper": false,
                 "twitter": true,
