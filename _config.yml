@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://MustafaKhan670093.github.io'
-baseurl:          '/ai-notebooks'
+baseurl:          'https://MustafaKhan670093.github.io/ai-notebooks'
 rss:              RSS
 
 toc:
