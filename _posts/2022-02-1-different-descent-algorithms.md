@@ -58,7 +58,7 @@ In SGD we use only one example at a time, so we cannot implement a vectorized im
 
 ## Sources
 
-https://arxiv.org/pdf/1606.04838.pdf
-https://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent
-https://towardsdatascience.com/batch-mini-batch-stochastic-gradient-descent-7a62ecba642a
-https://www.geeksforgeeks.org/difference-between-batch-gradient-descent-and-stochastic-gradient-descent/
+* https://arxiv.org/pdf/1606.04838.pdf
+* https://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent
+* https://towardsdatascience.com/batch-mini-batch-stochastic-gradient-descent-7a62ecba642a
+* https://www.geeksforgeeks.org/difference-between-batch-gradient-descent-and-stochastic-gradient-descent/
