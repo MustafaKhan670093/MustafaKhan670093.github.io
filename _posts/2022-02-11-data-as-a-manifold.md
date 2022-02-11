@@ -40,11 +40,19 @@ A manifold is a concept from Topology.
         - This means if you zoom in really close, a curved geometry begins to appear like $\mathbb{R}^n$. For instance, if you zoom into a donut, it looks like Euclidian space. This is important because much of mathematics is defined in $\mathbb{R}^n$.
 
 
-## A collection of Data is a Manifold
+## A Collection Of Data Is A Manifold
+- What is the relationship between manifolds and datasets?
+- The manifold assumption indicates that data points represent the state of an object and that these should distribute on a smooth low-dimensional manifold embedded in high-dimensional observation space. Consider the image of the duck shown below, the images of the rotating duck toy distribute on a one-dimensional manifold (a curve) embedded in high-dimensional pixel space. Each image depicts a particular state of the duck. Although the pixel values change dramatically from one image to the next, humans could easily identify that they are controlled by one key factor: the rotation of the duck.
 
-Data can come from a variety of spaces. It can be the space of all images, or from a range of prices and numerical values. These high dimensional spaces have complex representations that cannot always be visualized. However, the data may come from a special subset that is represented by a manifold.
-Thus, manifolds can act as a stepping stone from a complex space to a simpler, smoother subset.
+![A Rotating Duck](https://static-01.hindawi.com/articles/mpe/volume-2021/6432929/figures/6432929.fig.001.svgz)
 
-Classification problems are prime examples for manifold learning — where we are specifically looking for manifolds that separate two types of data.
 
-There are many approaches within manifold learning that perhaps have been seen before, such as t-SNE and Locally Linear Embeddings (LLE).
+Other things to look into:
+- Manifold Learning
+- t-SNE
+- Locally Linear Embeddings (LLE)
+
+
+### Sources
+
+* https://www.hindawi.com/journals/mpe/2021/6432929/
