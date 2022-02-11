@@ -1,7 +1,7 @@
 ---
 title: Data can be thought of as a manifold.
 author: Mustafa Khan
-date: 2019-04-29
+date: 2022-02-11
 category: Jekyll
 layout: post
 ---
@@ -14,10 +14,10 @@ A manifold is a concept from Topology.
 
 ## Uses Of Topology
 
-- Understanding the $\epsilon-\delta$ proof from Calculus requires Topology to define what we considered open (such as an interval of the form $(a,b)$) or closed (such as an interval of the form $[a,b]$).
+- Understanding the $$\epsilon-\delta$$ proof from Calculus requires Topology to define what we considered open (such as an interval of the form $$(a,b)$$) or closed (such as an interval of the form $$[a,b]$$).
     - What happens if you redefine derivatives in other systems other than $\mathbb{R}^n$?
 - Allows you to extend and understand odd geometries.
-    - Interesting problem in topology: What is the difference between $\mathbb{R}^2$ and  $$$\mathbb{R}^3$?
+    - Interesting problem in topology: What is the difference between $$\mathbb{R}^2$$ and  $$\mathbb{R}^3$$?
 - An application in robotics with the Hartman Grobman theorem (a theorem about ODEs).
     - Consider a point in equilibria in a non-linear direction field. How do we tell if this point is a saddle point?
     - We zoom in to the non-linear direction field so that the field appears like we are in Cartesian or Euclidian space. Here we can compute the Wronskian. Stability happens to be the topological property that is unchanged.
@@ -36,7 +36,7 @@ A manifold is a concept from Topology.
         - This is a very abstract concept that you can draw two circles around two circles around two points that don’t intersect.
     - 2nd Countable
         - Allows the idea of distance to make sense.
-    - Locally homeomorphic to $\mathbb{R}^n$
+    - Locally homeomorphic to $$\mathbb{R}^n$$
         - This means if you zoom in really close, a curved geometry begins to appear like $\mathbb{R}^n$. For instance, if you zoom into a donut, it looks like Euclidian space. This is important because much of mathematics is defined in $\mathbb{R}^n$.
 
 
