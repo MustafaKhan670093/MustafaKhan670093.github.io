@@ -14,8 +14,8 @@ A manifold is a concept from Topology.
 
 ## Uses Of Topology
 
-- Understanding the \\ \epsilon-\delta \\ proof from Calculus requires Topology to define what we considered open (such as an interval of the form \\ (a,b) \\) or closed (such as an interval of the form \\ [a,b] \\).
-    - What happens if you redefine derivatives in other systems other than $\mathbb{R}^n$?
+- Understanding the $$ \epsilon-\delta $$ proof from Calculus requires Topology to define what we considered open (such as an interval of the form $$ (a,b) $$) or closed (such as an interval of the form $$ [a,b] $$).
+    - What happens if you redefine derivatives in other systems other than $$\mathbb{R}^n$$?
 - Allows you to extend and understand odd geometries.
     - Interesting problem in topology: What is the difference between $$\mathbb{R}^2$$ and  $$\mathbb{R}^3$$?
 - An application in robotics with the Hartman Grobman theorem (a theorem about ODEs).
