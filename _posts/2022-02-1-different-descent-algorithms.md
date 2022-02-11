@@ -1,12 +1,10 @@
 ---
-title: Difference between BGD, SGDz and Mini-BGD
+title: What is the difference between batch gradient descent, stochastic gradient descent and mini-batch gradient descent?
 author: Mustafa Khan
 date: 2022-02-1
 category: Jekyll
 layout: post
 ---
-
-## What is the difference between batch gradient descent, stochastic gradient descent and mini-batch gradient descent?
 
 In all 3 cases, gradient descent is the algorithm used to update a model's weights. However, there are differences in how batches are made and how the update step is computed. Summary:
 
@@ -58,7 +56,7 @@ In SGD we use only one example at a time, so we cannot implement a vectorized im
 5. Repeat for all the other mini-batches
 6. Just like SGD, the average cost over the epochs in mini-batch gradient descent fluctuates because we are averaging a small number of examples at a time. However, since we're using min-batches we can use a vectorized implementation for faster computations.
 
-### Sources:
+## Sources
 
 https://arxiv.org/pdf/1606.04838.pdf
 https://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent
